@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 9,
-  "commit": "16e6dca",
-  "notes": "Settings: show Update and Restart button and download progress when an update is available",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-9.dmg",
-  "sha256": "6cfacf7a29e5353394fd316009398352cfa06b750d27a3c221fd99fa2a1f1f39",
-  "published_at": "2026-11-20T01:49:10+00:00"
+  "build": 10,
+  "commit": "2977c43",
+  "notes": "Settings: choose whether numbers show remaining or used quota",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-10.dmg",
+  "sha256": "0bc9fdc3cc09647efabb8411b6ebf7fe880703125ef8beebcdd577137d4d87f6",
+  "published_at": "2026-11-20T02:02:57+00:00"
 }
