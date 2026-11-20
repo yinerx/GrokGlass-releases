@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 15,
-  "commit": "209a260",
-  "notes": "Settings: refresh interval as two full-width rows",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-15.dmg",
-  "sha256": "1b6683effad2c61c9be6ff0e0152275799e625df974bef131aef8f5fa5cf9645",
-  "published_at": "2026-11-20T02:37:41+00:00"
+  "build": 16,
+  "commit": "b4acc85",
+  "notes": "Menu bar ring: thin track and thick arc so it reads on inactive displays",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-16.dmg",
+  "sha256": "509d9a81f92d235fa46570acd163c4df226bf08b5d3e61d2ba48d70ae834c9df",
+  "published_at": "2026-11-20T02:46:10+00:00"
 }
