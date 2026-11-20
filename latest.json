@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 11,
-  "commit": "858ed64",
-  "notes": "Settings: right-align all switches",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-11.dmg",
-  "sha256": "e22c8bb0a7ca0268705ae8233d37df8fe6796b57484106cf47cbc11b90771e0b",
-  "published_at": "2026-11-20T02:09:00+00:00"
+  "build": 12,
+  "commit": "634697b",
+  "notes": "Ring arcs follow the remaining/used choice",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-12.dmg",
+  "sha256": "8fdabd45dae92df64645e775ad19efeae666eafbc79e246f1121d171950db12c",
+  "published_at": "2026-11-20T02:13:38+00:00"
 }
