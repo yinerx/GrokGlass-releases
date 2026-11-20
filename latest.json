@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 16,
-  "commit": "b4acc85",
-  "notes": "Menu bar ring: thin track and thick arc so it reads on inactive displays",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-16.dmg",
-  "sha256": "509d9a81f92d235fa46570acd163c4df226bf08b5d3e61d2ba48d70ae834c9df",
-  "published_at": "2026-11-20T02:46:10+00:00"
+  "build": 17,
+  "commit": "049b98c",
+  "notes": "Dashboard: separate dated Usage This Week chart card",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-17.dmg",
+  "sha256": "c1238a8f440647659fd246d095d9b016dffe0cabe1b8566695ce0d8949e55831",
+  "published_at": "2026-11-20T04:34:36+00:00"
 }
