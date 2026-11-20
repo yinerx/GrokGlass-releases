@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 13,
-  "commit": "7b0e36c",
-  "notes": "Add language setting: follow system, Chinese, or English, switchable at runtime",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-13.dmg",
-  "sha256": "4a276799b3fe2955c68638c29ccedad1983b4956a903cb19c9ddc6deb7760196",
-  "published_at": "2026-11-20T02:22:34+00:00"
+  "build": 14,
+  "commit": "d60cb43",
+  "notes": "Settings: move explanations into info popovers",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-14.dmg",
+  "sha256": "cd5fb7868c91eb400c47a3de719269f0e4a0e77f2b07f269069ea0ba65bca39e",
+  "published_at": "2026-11-20T02:30:03+00:00"
 }
