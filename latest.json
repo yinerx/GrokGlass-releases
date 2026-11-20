@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 12,
-  "commit": "634697b",
-  "notes": "Ring arcs follow the remaining/used choice",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-12.dmg",
-  "sha256": "8fdabd45dae92df64645e775ad19efeae666eafbc79e246f1121d171950db12c",
-  "published_at": "2026-11-20T02:13:38+00:00"
+  "build": 13,
+  "commit": "7b0e36c",
+  "notes": "Add language setting: follow system, Chinese, or English, switchable at runtime",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-13.dmg",
+  "sha256": "4a276799b3fe2955c68638c29ccedad1983b4956a903cb19c9ddc6deb7760196",
+  "published_at": "2026-11-20T02:22:34+00:00"
 }
