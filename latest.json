@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 6,
-  "commit": "34cbbc9",
-  "notes": "In-app update checker; status item width fits content; no sandbox; v1.1.0",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-6.dmg",
-  "sha256": "a6bffbf7a11419a2b5ec76311eb35e732c1f1c366d1cfe304a029954116942f1",
-  "published_at": "2026-11-20T01:37:06+00:00"
+  "build": 8,
+  "commit": "1c14f08",
+  "notes": "Drop sizingOptions on hosting view (set on controller)",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-8.dmg",
+  "sha256": "d5c13ae01b13a1ce1c93765cb07bb588d56ba8c36cd9442c7db52d43fe4b7a5e",
+  "published_at": "2026-11-20T01:45:19+00:00"
 }
