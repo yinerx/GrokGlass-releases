@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 10,
-  "commit": "2977c43",
-  "notes": "Settings: choose whether numbers show remaining or used quota",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-10.dmg",
-  "sha256": "0bc9fdc3cc09647efabb8411b6ebf7fe880703125ef8beebcdd577137d4d87f6",
-  "published_at": "2026-11-20T02:02:57+00:00"
+  "build": 11,
+  "commit": "858ed64",
+  "notes": "Settings: right-align all switches",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-11.dmg",
+  "sha256": "e22c8bb0a7ca0268705ae8233d37df8fe6796b57484106cf47cbc11b90771e0b",
+  "published_at": "2026-11-20T02:09:00+00:00"
 }
