@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 8,
-  "commit": "1c14f08",
-  "notes": "Drop sizingOptions on hosting view (set on controller)",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-8.dmg",
-  "sha256": "d5c13ae01b13a1ce1c93765cb07bb588d56ba8c36cd9442c7db52d43fe4b7a5e",
-  "published_at": "2026-11-20T01:45:19+00:00"
+  "build": 9,
+  "commit": "16e6dca",
+  "notes": "Settings: show Update and Restart button and download progress when an update is available",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-9.dmg",
+  "sha256": "6cfacf7a29e5353394fd316009398352cfa06b750d27a3c221fd99fa2a1f1f39",
+  "published_at": "2026-11-20T01:49:10+00:00"
 }
