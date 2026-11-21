@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 17,
-  "commit": "049b98c",
-  "notes": "Dashboard: separate dated Usage This Week chart card",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-17.dmg",
-  "sha256": "c1238a8f440647659fd246d095d9b016dffe0cabe1b8566695ce0d8949e55831",
-  "published_at": "2026-11-20T04:34:36+00:00"
+  "build": 18,
+  "commit": "7c68d0f",
+  "notes": "Status item: left click opens dashboard, right click opens Settings",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-18.dmg",
+  "sha256": "33ec6733f3b6026d0411465aaa67f1b2b2b7d6e2a6c635758ca6ddd050b8e0a9",
+  "published_at": "2026-11-21T08:04:05+00:00"
 }
