@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": 18,
-  "commit": "7c68d0f",
-  "notes": "Status item: left click opens dashboard, right click opens Settings",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-18.dmg",
-  "sha256": "33ec6733f3b6026d0411465aaa67f1b2b2b7d6e2a6c635758ca6ddd050b8e0a9",
-  "published_at": "2026-11-21T08:04:05+00:00"
+  "build": 19,
+  "commit": "bb98a8b",
+  "notes": "Panel: close when clicking anywhere outside GrokGlass",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-19.dmg",
+  "sha256": "dfe86f32f68fe2dbc8e37daa828ca1056b093e30c113fa16b6cb687316d0d129",
+  "published_at": "2026-11-24T13:37:33+00:00"
 }
