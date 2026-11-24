@@ -1,13 +1,13 @@
 {
-  "versionCode": 20,
+  "versionCode": 21,
   "versionName": "1.1.0",
-  "changelog": "Updater: follow yiner-dev spec (GitHub Release latest.json, versionCode, API fallback, User-Agent)",
-  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-20/GrokGlass-1.1.0-20.dmg",
-  "sha256": "b85e0cc6f090baac918fd5e1771c705feb40b44a9465ced7e48f3e9c2777101c",
-  "commit": "146e1a1",
-  "published_at": "2026-11-24T14:12:17+00:00",
+  "changelog": "Dashboard: pin GrokBot and Cursor, hide unused product rows",
+  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-21/GrokGlass-1.1.0-21.dmg",
+  "sha256": "d87c3ad2190460b747ba3399843d52a5134bc915c82f4063b916473e355abd89",
+  "commit": "1b50b6a",
+  "published_at": "2026-11-24T15:47:14+00:00",
   "version": "1.1.0",
-  "build": 20,
-  "notes": "Updater: follow yiner-dev spec (GitHub Release latest.json, versionCode, API fallback, User-Agent)",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-20.dmg"
+  "build": 21,
+  "notes": "Dashboard: pin GrokBot and Cursor, hide unused product rows",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-21.dmg"
 }
