@@ -1,0 +1,54 @@
+name: Publish GitHub Release
+
+# GrokGlass CI (private source repo) pushes builds/<dmg>, latest.json and a tag v<version>-<build>
+# with a deploy key. This turns that tag into a GitHub Release with both files as assets, so
+# https://github.com/yinerx/GrokGlass-releases/releases/latest/download/latest.json always serves the newest feed.
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing tag to (re)publish"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.tag || github.ref }}
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.inputs.tag || github.ref_name }}
+        run: |
+          set -euo pipefail
+          CODE=$(jq -r .versionCode latest.json)
+          NAME_V=$(jq -r .versionName latest.json)
+          NOTES=$(jq -r .changelog latest.json)
+          URL=$(jq -r .downloadUrl latest.json)
+          DMG="builds/$(basename "$URL")"
+          test -f "$DMG"
+          case "$URL" in */releases/download/$TAG/*) ;; *) echo "downloadUrl $URL does not match tag $TAG"; exit 1;; esac
+          echo "$(shasum -a 256 "$DMG" | cut -d' ' -f1)  $(jq -r .sha256 latest.json)"
+          test "$(shasum -a 256 "$DMG" | cut -d' ' -f1)" = "$(jq -r .sha256 latest.json)"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$DMG" latest.json --clobber
+            gh release edit "$TAG" --latest
+          else
+            gh release create "$TAG" "$DMG" latest.json \
+              --verify-tag \
+              --title "GrokGlass $NAME_V ($CODE)" \
+              --notes "$NOTES" \
+              --latest
+          fi
