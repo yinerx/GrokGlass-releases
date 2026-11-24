@@ -1,9 +1,13 @@
 {
+  "versionCode": 20,
+  "versionName": "1.1.0",
+  "changelog": "Updater: follow yiner-dev spec (GitHub Release latest.json, versionCode, API fallback, User-Agent)",
+  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-20/GrokGlass-1.1.0-20.dmg",
+  "sha256": "b85e0cc6f090baac918fd5e1771c705feb40b44a9465ced7e48f3e9c2777101c",
+  "commit": "146e1a1",
+  "published_at": "2026-11-24T14:12:17+00:00",
   "version": "1.1.0",
-  "build": 19,
-  "commit": "bb98a8b",
-  "notes": "Panel: close when clicking anywhere outside GrokGlass",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-19.dmg",
-  "sha256": "dfe86f32f68fe2dbc8e37daa828ca1056b093e30c113fa16b6cb687316d0d129",
-  "published_at": "2026-11-24T13:37:33+00:00"
+  "build": 20,
+  "notes": "Updater: follow yiner-dev spec (GitHub Release latest.json, versionCode, API fallback, User-Agent)",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-20.dmg"
 }
