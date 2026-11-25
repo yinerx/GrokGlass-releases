@@ -1,13 +1,13 @@
 {
-  "versionCode": 21,
+  "versionCode": 23,
   "versionName": "1.1.0",
-  "changelog": "Dashboard: pin GrokBot and Cursor, hide unused product rows",
-  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-21/GrokGlass-1.1.0-21.dmg",
-  "sha256": "d87c3ad2190460b747ba3399843d52a5134bc915c82f4063b916473e355abd89",
-  "commit": "1b50b6a",
-  "published_at": "2026-11-24T15:47:14+00:00",
+  "changelog": "Fix panel opacity snapping to use stable 5% steps",
+  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-23/GrokGlass-1.1.0-23.dmg",
+  "sha256": "11af0633680f43ab573dbccbcfe14fa79cca72bd28e8cf13b5f52cde32864404",
+  "commit": "f2646c4",
+  "published_at": "2026-11-25T08:32:27+00:00",
   "version": "1.1.0",
-  "build": 21,
-  "notes": "Dashboard: pin GrokBot and Cursor, hide unused product rows",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-21.dmg"
+  "build": 23,
+  "notes": "Fix panel opacity snapping to use stable 5% steps",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-23.dmg"
 }
