@@ -1,13 +1,13 @@
 {
-  "versionCode": 23,
+  "versionCode": 24,
   "versionName": "1.1.0",
-  "changelog": "Fix panel opacity snapping to use stable 5% steps",
-  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-23/GrokGlass-1.1.0-23.dmg",
-  "sha256": "11af0633680f43ab573dbccbcfe14fa79cca72bd28e8cf13b5f52cde32864404",
-  "commit": "f2646c4",
-  "published_at": "2026-11-25T08:32:27+00:00",
+  "changelog": "New app icon: handwritten G on frosted glass",
+  "downloadUrl": "https://github.com/yinerx/GrokGlass-releases/releases/download/v1.1.0-24/GrokGlass-1.1.0-24.dmg",
+  "sha256": "f4c8c9b5c92cc1e8ee9f7949b678b4be8adc3fc2ae76a12924a417ed0068e8ae",
+  "commit": "5a777ed",
+  "published_at": "2026-11-25T09:21:50+00:00",
   "version": "1.1.0",
-  "build": 23,
-  "notes": "Fix panel opacity snapping to use stable 5% steps",
-  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-23.dmg"
+  "build": 24,
+  "notes": "New app icon: handwritten G on frosted glass",
+  "url": "https://raw.githubusercontent.com/yinerx/GrokGlass-releases/main/builds/GrokGlass-1.1.0-24.dmg"
 }
